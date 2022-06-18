@@ -21,7 +21,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/loveleaves/count.svg) visi
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loveleaves&show_icons=true&theme=tokyonight)
 
 # My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="25%">
 
 
 
