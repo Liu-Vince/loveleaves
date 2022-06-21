@@ -12,6 +12,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/loveleaves/count.svg) visi
 - 🤔 I love **Reading, AI and robot**
 - ⚡ C++ / Python.
 - 🖋 academic rookie at [Researchgate](https://www.researchgate.net/profile/Bo-Chang-7)
+- 🖋 RMer(Embedded Control) in Future(YNU FIST Lab)
 - ✍️ [Blogger](https://www.zhihu.com/people/loveleave)
 - 🏃 Basketball / Tennis / Adventure
 
